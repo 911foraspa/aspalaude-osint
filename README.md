@@ -13,7 +13,7 @@ python3 asplaude_osint.py
 - Python lazimdir(3.10+ önerilir)
 # https://www.python.org/downloads/
 
-cd Asplaude
+cd aspaulade-osint
 
 python -m venv venv
 venv\Scripts\activate
@@ -21,4 +21,24 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 python asplaude_osint.py
+
+# For termux
+- warning: arpscan and qrcode dont work good in termux
+
+pkg update && pkg upgrade -y
+pkg install iproute2
+
+pkg install python git clang make libffi openssl rust -y
+
+pip install --upgrade pip
+
+git clone https://github.com/username/asplaude-osint.py
+cd asplaude-osint.py
+
+pip install -r requirements.txt
+
+
+
+
+
 

@@ -37,6 +37,8 @@ cd asplaude-osint.py
 
 pip install -r requirements.txt
 
+https://i.hizliresim.com/mqlpjn2.png
+
 
 
 

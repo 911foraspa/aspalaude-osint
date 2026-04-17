@@ -1,0 +1,7 @@
+rich
+requests
+Pillow
+piexif
+qrcode[pil]
+pyzbar
+scapy

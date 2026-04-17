@@ -37,7 +37,11 @@ cd asplaude-osint.py
 
 pip install -r requirements.txt
 
-https://i.hizliresim.com/mqlpjn2.png
+<h2 align="center">Gorunum</h2>
+
+<p align="center">
+  <img src="https://i.hizliresim.com/mqlpjn2.png" width="700"/>
+</p>
 
 
 

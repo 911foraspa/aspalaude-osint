@@ -32,8 +32,8 @@ pkg install python git clang make libffi openssl rust -y
 
 pip install --upgrade pip
 
-git clone https://github.com/username/asplaude-osint.py
-cd asplaude-osint.py
+git clone https://github.com/911foraspa/aspalaude-osint
+cd aspalaude-osint
 
 pip install -r requirements.txt
 
